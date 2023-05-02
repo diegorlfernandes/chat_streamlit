@@ -38,4 +38,3 @@ class ChatGPTContext():
 
 if __name__=='__main__':
     ct = ChatGPTContext.get_context_pizzaria()
-    x=""

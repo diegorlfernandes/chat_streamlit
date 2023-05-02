@@ -34,7 +34,7 @@ def get_completion_from_messages(messages, model="gpt-3.5-turbo", temperature=0)
     
 if __name__ == '__main__':
     
-    openai.api_key = "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"
+    openai.api_key = ""
 
     get_completion_from_messages("Bom dia!")
     

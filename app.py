@@ -4,7 +4,7 @@ import requests
 from ChatGPT import ChatGPT
 
 st.set_page_config(
-    page_title="Streamlit Chat - Demo",
+    page_title="Pizzaria",
     page_icon=":robot:"
 )
 
